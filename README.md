@@ -128,8 +128,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-[Roberto](https://github.com/LoboArkano) My current coding partner
-
 [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) The designer behind the base idea of the website
 
 My Microverse Stand Up Team for support and guidance
